@@ -20,7 +20,7 @@ of the plan in sequence, being careful to not collide with the rocks.
     <ul>
         <li><b>rclpy</b>, a ROS Client Library for the Python language, <a href="https://github.com/ros2/rclpy">https://github.com/ros2/rclpy</a></li>
         <li><b>clingo API</b>, an ASP framework <a href="https://potassco.org/clingo/python-api/5.4/">https://potassco.org/clingo/python-api/5.4/</a></li>
-        <li><b>Unity</b>, with an environment containing an arena, an agent and obstacles</li>
+        <li><b>Unity</b> and <b>ROS2</b> are required, we suggest to follow this repository to install and configure the environment <a href="https://gitlab.com/TrottiFrancesco/            mobile_robotics_lab">https://gitlab.com/TrottiFrancesco/mobile_robotics_lab</a></li>
     </ul>
 </div>
 
