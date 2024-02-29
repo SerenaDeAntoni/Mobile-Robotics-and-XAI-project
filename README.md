@@ -24,6 +24,14 @@ of the plan in sequence, being careful to not collide with the rocks.
     </ul>
 </div>
 
+<h2>Files usage</h2>
+<div>
+    <ul>
+        <li><b>project_exam_grid.unity</b> and <b>project_exam_grid.unity.meta</b>, are the the arena files configuration, containing the agent and the rocks (obstacles)</li>
+        <li><b>plan_and_exec.py</b> is the core program to run</li>
+    </ul>
+</div>
+
 <h2>Program Steps</h2>
 <div>
     The program is defined by 3 main steps:
